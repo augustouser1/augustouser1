@@ -8,6 +8,7 @@ Automação de Torrador de Café com IA - Projeto de extensão de 352 horas real
 
 ## About me
 My name is Augusto Corrêa Silva Bitencourt, I am currently pursuing a B.S. in Computer Science at UFLA.🎓 Education: B.S. in Computer Science (UFLA) | IT Technician (CEFET-MG).💡 Interests: Deep Learning (YOLO), Digital Security, Computer Networks, Natural Language Processing (LLMs), and Robotics.🛠️ Core Stack: C++, Python, JavaScript, React Native, OpenCV, and YOLO v8.
+## Highlighted Projects
 
 ☕ AI-Driven Coffee Roaster Automation
 A 352-hour research & extension project conducted at IFES.Developed a real-time roast degree detection system using YOLO v8 and OpenCV.Applied neural networks to identify roast types based on Agtron standards.
