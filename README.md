@@ -1,4 +1,4 @@
-Olá 👋
+### Olá 👋
 
 ## Sobre Mim 
 Atualmente graduando em Ciência da Computação na UFLA, sou um desenvolvedor com foco em Inteligência Artificial, Visão Computacional e Automação. Minha trajetória une a base técnica do CEFET-MG com a experiência prática em projetos de engenharia e inovação.🎓 Educação: Ciência da Computação (UFLA) | Técnico em Informática (CEFET-MG).💡 Interesses: Deep Learning (YOLO), Processamento de Linguagem Natural (LLMs) e Robótica.🛠️ Principais Tecnologias: C++, Python, JavaScript, React Native, OpenCV e YOLO v8.
